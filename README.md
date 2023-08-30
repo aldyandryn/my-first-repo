@@ -5,3 +5,5 @@ NPM     : 2206809936
 Kelas   : PBP B
 
 Hobi    : Mendengarkan Musik
+
+Jurusan : Sistem Informasi 
